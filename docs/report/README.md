@@ -7,7 +7,7 @@ By Jewel Nath, Shanjit Mondol, Tousif Bin Parves, Md Mohiuddin Khan Mahin and
 Anik Chakraborty (Quanta Robotics).
 
 [Read the PDF](robot-niko-report.pdf) (15 pages, one column). On Zenodo:
-[doi:10.5281/zenodo.23700587](https://doi.org/10.5281/zenodo.23700587), which
+[doi:10.5281/zenodo.23719561](https://doi.org/10.5281/zenodo.23719561), which
 always points to the latest version.
 
 It describes Niko's mechanical build, electronics, software, motion, voice and
