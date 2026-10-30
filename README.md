@@ -50,7 +50,9 @@ report's source and diagrams are in [docs/report/](docs/report/README.md) and
 [Niko is based on InMoov](https://inmoov.fr/), Gaël Langevin's open-source,
 life-size robot — Niko runs InMoov's head, torso, arms and hands on a stand,
 driven by a Raspberry Pi with its own Python code instead of InMoov's usual
-Arduino and MyRobotLab. Niko's 3D model, made from InMoov's parts in Blender:
+Arduino and MyRobotLab. The team's working 3D models for every printed part —
+343 STL files, organized by body part — live in [cad/](cad/README.md).
+Niko's 3D model, made from InMoov's parts in Blender:
 
 | | | |
 |---|---|---|
